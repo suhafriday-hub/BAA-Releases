@@ -1,6 +1,6 @@
 {
-  "version": "2.3.0",
-  "installer_url": "https://github.com/suhafriday-hub/BAA-Releases/releases/download/v2.3.0/BAA-2.3.0-Setup.exe",
-  "sha256": "b63685f58bc5640766d68444798fcbe4559ce759d65c5fad13d74c8c49eafdfc",
-  "notes": "Проверка повторов использует уже выбранный доработанный файл; в ИИ-рецензии можно задавать уточняющие вопросы; обновлено оформление настроек."
+  "version": "2.3.1",
+  "installer_url": "https://github.com/suhafriday-hub/BAA-Releases/releases/download/v2.3.1/BAA-2.3.1-Setup.exe",
+  "sha256": "3c33e53b22399c78fc2d7fb0a7c361eff5d3ec4b68fedef1bcd2def58baf8c5a",
+  "notes": "Исправлена проверка обновлений: автоматические повторы, резервный адрес GitHub и понятные сообщения при сетевом обрыве."
 }
