@@ -7,7 +7,7 @@ BAA сравнивает исходную и доработанную верси
 
 ## Скачать
 
-Скачайте **BAA-2.2.0-Setup.exe** в разделе [Releases](https://github.com/suhafriday-hub/BAA-Releases/releases/latest). Переносимая версия доступна там же.
+Скачайте **BAA-2.3.0-Setup.exe** в разделе [Releases](https://github.com/suhafriday-hub/BAA-Releases/releases/latest). Переносимая версия доступна там же.
 
 После установки дальнейшие версии можно получать кнопкой **«Обновить»** в приложении.
 
