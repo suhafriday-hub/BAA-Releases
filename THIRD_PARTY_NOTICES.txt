@@ -1,5 +1,5 @@
 THIRD-PARTY SOFTWARE NOTICES
-Batch Article Analyzer 2.2.0
+Batch Article Analyzer 2.3.3
 
 The proprietary license for the original BAA code does not replace or restrict the licenses below. If a conflict exists, the applicable third-party license controls for that component.
 
@@ -19,14 +19,47 @@ Python 3.11
 License: Python Software Foundation License Version 2.
 Project and source: https://www.python.org/
 
-requests 2.32.5 — Apache License 2.0 — https://requests.readthedocs.io/
-urllib3 2.6.3 — MIT License — https://urllib3.readthedocs.io/
-charset-normalizer 3.4.4 — MIT License — https://github.com/jawah/charset_normalizer
-certifi 2026.1.4 — Mozilla Public License 2.0 — https://github.com/certifi/python-certifi
-python-docx 1.2.0 — MIT License — https://github.com/python-openxml/python-docx
-lxml 6.0.2 — BSD-style license — https://lxml.de/
-openpyxl 3.1.5 — MIT License — https://openpyxl.readthedocs.io/
-et_xmlfile 2.0.0 — MIT and Python Software Foundation licenses — https://foss.heptapod.net/openpyxl/et_xmlfile
-PyInstaller 6.18.0 — GPL-2.0-or-later with the PyInstaller bootloader exception — https://pyinstaller.org/
+requests 2.34.2
+License: Apache License 2.0.
+Project: https://requests.readthedocs.io/
+
+urllib3 2.8.0
+License: MIT License.
+Project: https://urllib3.readthedocs.io/
+
+charset-normalizer 3.5.1
+License: MIT License.
+Project: https://github.com/jawah/charset_normalizer
+
+certifi 2026.7.22
+License: Mozilla Public License 2.0.
+Project: https://github.com/certifi/python-certifi
+
+python-docx 1.2.0
+License: MIT License.
+Project: https://github.com/python-openxml/python-docx
+
+lxml 6.1.3
+License: BSD-style license; additional notices are included in the licenses directory.
+Project: https://lxml.de/
+
+openpyxl 3.1.5
+License: MIT License.
+Project: https://openpyxl.readthedocs.io/
+
+et_xmlfile 2.0.0
+License: MIT License and Python Software Foundation license for indicated files.
+Project: https://foss.heptapod.net/openpyxl/et_xmlfile
+
+PyInstaller 6.21.0
+License: GPL-2.0-or-later with the PyInstaller bootloader exception permitting distribution of non-free applications.
+Project: https://pyinstaller.org/
 
 Full license texts supplied with this installer are located in the installed "licenses" directory.
+
+pypdfium2 5.13.0
+License: Apache-2.0 OR BSD-3-Clause; supplied documentation may use CC-BY-4.0.
+Project: https://github.com/pypdfium2-team/pypdfium2
+PDFium binary and its bundled dependencies retain their respective licenses.
+Complete package and binary notices are supplied in licenses/pypdfium2.
+Microsoft Word is not included in this installer.

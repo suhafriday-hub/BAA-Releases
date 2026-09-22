@@ -1,6 +1,6 @@
 {
-  "version": "2.3.1",
-  "installer_url": "https://github.com/suhafriday-hub/BAA-Releases/releases/download/v2.3.1/BAA-2.3.1-Setup.exe",
-  "sha256": "3c33e53b22399c78fc2d7fb0a7c361eff5d3ec4b68fedef1bcd2def58baf8c5a",
-  "notes": "Исправлена проверка обновлений: автоматические повторы, резервный адрес GitHub и понятные сообщения при сетевом обрыве."
+  "version": "2.4.1",
+  "sha256": "4a6389752b771ee3e5cc6b7c587420e9246e3645f38ca54280bcfee63181f8e4",
+  "notes": "Обновлённый интерфейс, 16 показателей статьи, русские и английские слова и символы, топ-20 и новый раздел «О программе».",
+  "installer_url": "https://github.com/suhafriday-hub/BAA-Releases/releases/download/v2.4.1/BAA-2.4.1-Setup.exe"
 }
