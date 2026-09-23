@@ -1,6 +1,6 @@
 {
-  "sha256": "4e4e2392647d3bf7b91812518d1eb7a673049c9bf45f18bea151397110c620db",
-  "installer_url": "https://github.com/suhafriday-hub/BAA-Releases/releases/download/v2.4.5/BAA-2.4.5-Setup.exe",
-  "notes": "Исправлен тест соединения: ожидание до 60 секунд и понятная причина ошибки.",
-  "version": "2.4.5"
+  "sha256": "2a36a780c5d3900dc2ca0f99cef442cf116fbfbe5bd734f4011a8c4f59a425e1",
+  "version": "2.4.6",
+  "installer_url": "https://github.com/suhafriday-hub/BAA-Releases/releases/download/v2.4.6/BAA-2.4.6-Setup.exe",
+  "notes": "Единый шаблон отчётов и системное HTTPS-подключение к Polza AI."
 }
