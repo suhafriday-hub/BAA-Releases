@@ -1,6 +1,6 @@
 {
-  "sha256": "3c848ea65d6a2e8eebd614bfc423b8a2765df25f989108c53ea338a40640d2c6",
-  "version": "2.4.4",
-  "installer_url": "https://github.com/suhafriday-hub/BAA-Releases/releases/download/v2.4.4/BAA-2.4.4-Setup.exe",
-  "notes": "Даты статей в отчёте, GPT-6 Luna и упрощённое меню отчётов."
+  "sha256": "4e4e2392647d3bf7b91812518d1eb7a673049c9bf45f18bea151397110c620db",
+  "installer_url": "https://github.com/suhafriday-hub/BAA-Releases/releases/download/v2.4.5/BAA-2.4.5-Setup.exe",
+  "notes": "Исправлен тест соединения: ожидание до 60 секунд и понятная причина ошибки.",
+  "version": "2.4.5"
 }
