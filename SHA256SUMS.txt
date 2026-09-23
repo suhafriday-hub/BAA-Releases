@@ -1,1 +1,1 @@
-2a36a780c5d3900dc2ca0f99cef442cf116fbfbe5bd734f4011a8c4f59a425e1  BAA-2.4.6-Setup.exe
+e2fa993e20629a244e24f24bb7442f2581cfcefa93fdbf0ccbd478f046d66c14  BAA-2.4.7-Setup.exe

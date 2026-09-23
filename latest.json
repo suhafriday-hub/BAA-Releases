@@ -1,6 +1,6 @@
 {
-  "sha256": "2a36a780c5d3900dc2ca0f99cef442cf116fbfbe5bd734f4011a8c4f59a425e1",
-  "version": "2.4.6",
-  "installer_url": "https://github.com/suhafriday-hub/BAA-Releases/releases/download/v2.4.6/BAA-2.4.6-Setup.exe",
-  "notes": "Единый шаблон отчётов и системное HTTPS-подключение к Polza AI."
+  "version": "2.4.7",
+  "notes": "Исправлены подсчёты слов и даты финальной статьи; отчёты без служебных TXT.",
+  "sha256": "e2fa993e20629a244e24f24bb7442f2581cfcefa93fdbf0ccbd478f046d66c14",
+  "installer_url": "https://github.com/suhafriday-hub/BAA-Releases/releases/download/v2.4.7/BAA-2.4.7-Setup.exe"
 }
