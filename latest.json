@@ -1,6 +1,6 @@
 {
-  "sha256": "4e464b1e0aef262810b98bf16bbe0d733719982eb1f0ea3dfdf082083e313ec3",
-  "version": "2.4.2",
-  "notes": "Новая таблица отчёта, страницы, топ-20 слов, исправленные ссылки Excel, имена исходных файлов и новый логотип.",
-  "installer_url": "https://github.com/suhafriday-hub/BAA-Releases/releases/download/v2.4.2/BAA-2.4.2-Setup.exe"
+  "notes": "Компактный отчёт пары по шаблону, сводка до 10 предложений и единый отчёт по журналу.",
+  "installer_url": "https://github.com/suhafriday-hub/BAA-Releases/releases/download/v2.4.3/BAA-2.4.3-Setup.exe",
+  "sha256": "572a38bbbc4b698c514e61b013db509e104d23a9c618760a0f9c42d1ea3c9e39",
+  "version": "2.4.3"
 }
