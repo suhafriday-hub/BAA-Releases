@@ -1,6 +1,6 @@
 {
-  "sha256": "6a7791ae13f786614f070f09a8ea2aa6a02d86d93a1fb16d97b9c65062769f9f",
-  "version": "1.0.0",
-  "notes": "Версия 1.0.0: непрерывная прокрутка документов и новый логотип.",
-  "installer_url": "https://github.com/suhafriday-hub/BAA-Releases/releases/download/v1.0.0/BAA-1.0.0-Setup.exe"
+  "sha256": "86d69b6be9a78611963880d561e4a9e3614143255eddf1dad7999bd3ef864032",
+  "notes": "Версия 1.0.0: английские статьи, проверенные показатели и единый отчёт по журналу.",
+  "installer_url": "https://github.com/suhafriday-hub/BAA-Releases/releases/download/v1.0.0/BAA-1.0.0-Setup.exe",
+  "version": "1.0.0"
 }
