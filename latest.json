@@ -1,6 +1,6 @@
 {
-  "version": "2.4.7",
-  "notes": "Исправлены подсчёты слов и даты финальной статьи; отчёты без служебных TXT.",
-  "sha256": "e2fa993e20629a244e24f24bb7442f2581cfcefa93fdbf0ccbd478f046d66c14",
-  "installer_url": "https://github.com/suhafriday-hub/BAA-Releases/releases/download/v2.4.7/BAA-2.4.7-Setup.exe"
+  "sha256": "6a7791ae13f786614f070f09a8ea2aa6a02d86d93a1fb16d97b9c65062769f9f",
+  "version": "1.0.0",
+  "notes": "Версия 1.0.0: непрерывная прокрутка документов и новый логотип.",
+  "installer_url": "https://github.com/suhafriday-hub/BAA-Releases/releases/download/v1.0.0/BAA-1.0.0-Setup.exe"
 }
