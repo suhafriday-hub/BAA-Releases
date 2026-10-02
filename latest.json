@@ -1,6 +1,6 @@
 {
-  "sha256": "86d69b6be9a78611963880d561e4a9e3614143255eddf1dad7999bd3ef864032",
-  "notes": "Версия 1.0.0: английские статьи, проверенные показатели и единый отчёт по журналу.",
-  "installer_url": "https://github.com/suhafriday-hub/BAA-Releases/releases/download/v1.0.0/BAA-1.0.0-Setup.exe",
-  "version": "1.0.0"
+  "notes": "Версия 1.1.0: уточнённый подсчёт слов, код и формулы отдельно, новые показатели статьи.",
+  "version": "1.1.0",
+  "sha256": "46303c62dbd7d8a0bc997116ca0591bb939a834b25e00acfb0e6ecb66d0b48d7",
+  "installer_url": "https://github.com/suhafriday-hub/BAA-Releases/releases/download/v1.1.0/BAA-1.1.0-Setup.exe"
 }
