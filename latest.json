@@ -1,6 +1,6 @@
 {
-  "notes": "Версия 1.1.0: уточнённый подсчёт слов, код и формулы отдельно, новые показатели статьи.",
-  "version": "1.1.0",
-  "sha256": "46303c62dbd7d8a0bc997116ca0591bb939a834b25e00acfb0e6ecb66d0b48d7",
-  "installer_url": "https://github.com/suhafriday-hub/BAA-Releases/releases/download/v1.1.0/BAA-1.1.0-Setup.exe"
+  "installer_url": "https://github.com/suhafriday-hub/BAA-Releases/releases/download/v1.2.0/BAA-1.2.0-Setup.exe",
+  "sha256": "283e087c483db2e8ac18b3d38166714101be08491bb866852b6538046aa90faf",
+  "version": "1.2.0",
+  "notes": "Версия 1.2.0: сброс рабочих настроек, синхронная прокрутка, индикаторы обработки, титульник и оглавление, отчёты для документов без пары."
 }
